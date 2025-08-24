@@ -6,7 +6,7 @@ O objetivo é aplicar os conceitos fundamentais de programação obtidos durante
 
 ---
 
-## 📌 Contéudo utilizado
+## 📌 Conteúdo utilizado
 - Variáveis  
 - Operadores  
 - Laços de repetição  
